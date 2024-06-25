@@ -52,7 +52,7 @@ The dataset consists of biomedical voice measurements from people with early-sta
      ```
 
 2. **Random Forest (RF)**:
-   - Accuracy: 90%
+   - Accuracy: 92%
    - Code snippet:
      ```python
      from sklearn.ensemble import RandomForestClassifier
@@ -63,7 +63,7 @@ The dataset consists of biomedical voice measurements from people with early-sta
      ```
 
 3. **XGBoost**:
-   - Accuracy: 90%
+   - Accuracy: 92%
    - Code snippet:
      ```python
      from xgboost import XGBClassifier
