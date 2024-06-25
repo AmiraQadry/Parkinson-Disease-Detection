@@ -1,5 +1,6 @@
 # Parkinson's Disease Detection
 ![Parkinson's Disease](https://www.askdrray.com/wp-content/uploads/2017/09/bigstock-195525808.jpg)
+
 This project aims to detect Parkinson's disease using various machine learning models. We have implemented and evaluated four different models: Support Vector Machine (SVM), Random Forest (RF), XGBoost, and a Stacking Classifier. The dataset used for this project is available on [Kaggle](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set?select=parkinsons.data).
 
 ## Dataset
